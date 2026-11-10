@@ -1,3 +1,5 @@
+![Solidgate Open Source: Fork Our Engineering Culture](./banner.png)
+
 # Welcome
 
 Solidgate is a payment orchestration platform trusted by 150+ digital businesses. We build the infrastructure behind global payments. One unified API lets businesses accept payments globally, across payment methods, currencies, and compliance requirements.
